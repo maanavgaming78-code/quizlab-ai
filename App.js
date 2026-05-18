@@ -1,0 +1,1 @@
+export default function App(){return <h1>QuizLab AI App Ready</h1>}
